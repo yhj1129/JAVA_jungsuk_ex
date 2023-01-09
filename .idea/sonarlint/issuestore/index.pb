@@ -38,10 +38,6 @@ I
 I
 src/ch5/Exercise5_13.java,b\f\bf755e0fbbaa97072a17f5e3998315d20a313862
 H
-src/ch6/Exercise6_1.java,2\2\2284c60797ed6fdd019a431b31fe960fabe2b12e
-H
-src/ch6/Exercise6_2.java,0\c\0cf0c7bd347691f4fca0af0fd5eb6217a01a9d30
-H
 src/ch6/Exercise6_3.java,d\c\dcd8c65c8cae763cb3559abac67a3438d6de87c7
 H
 src/ch6/Exercise6_5.java,5\3\53d7b723c81597100e5fbae13a9e9d2bc750ad1a
